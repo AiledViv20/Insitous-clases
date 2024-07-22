@@ -1,0 +1,25 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.section_1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.column {
+    text-align: center;
+    span {
+        color: #20AD96;
+        font-size: 48px;
+        font-weight: 800;
+    }
+    h3 {
+        color: #3f3a64;
+        font-size: 15px;
+        font-weight: 700;
+    }
+}
